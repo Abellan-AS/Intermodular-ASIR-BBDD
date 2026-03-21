@@ -34,3 +34,5 @@ El sistema permite la extracción de información estratégica mediante:
 **Tecnología**: MySQL 
 **Diseño**: Draw.io  
 **Entorno**: Localhost / Ubuntu 24.04 LTS
+
+Responsable: Alejandro Sánchez Abellán Proyecto: Intermodular ASIR 2025-2026
