@@ -3,7 +3,7 @@
 Este módulo contiene el diseño, implementación y administración del sistema de base de datos relacional para **ClimAir S.L.**, sustituyendo la gestión mediante archivos planos por una infraestructura robusta en **MySQL**.
 
 ##  1. Análisis de Datos
-El sistema centraliza la información crítica para garantizar la integridad y el cumplimiento de la normativa **ISO 27001**:
+El sistema centraliza la información para garantizar la integridad y el cumplimiento de la normativa **ISO 27001**:
 * **Técnicos**: Registro del personal operativo vinculado a sus usuarios de sistema (ISO) para asegurar el no repudio 
 * **Clientes**: Directorio de instalaciones (viviendas y centros comerciales como CC Islazul) para optimizar la logística 
 * **Intervenciones**: Núcleo de la actividad donde se monitorizan equipos y estados de trabajo (Pendiente, Activo, Finalizado)
